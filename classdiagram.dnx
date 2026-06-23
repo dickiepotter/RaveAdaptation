@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.ibm.com/xtools/1.5.0/Notation" xmlns:uml="http://www.eclipse.org/uml2/1.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.0/Umlnotation" xmi:id="_ICCWAD9YEduSz4I7t53lGw" type="Class" name="classdiagram.dnx">
+  <children xmi:id="_bMcVYD9YEduSz4I7t53lGw" sourceEdges="_bxsXgD9YEduSz4I7t53lGw _cqdykD9YEduSz4I7t53lGw _cqdymD9YEduSz4I7t53lGw">
+    <children xmi:id="_bMcVYz9YEduSz4I7t53lGw" type="ImageCompartment">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_bMcVZD9YEduSz4I7t53lGw" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_bMcVZT9YEduSz4I7t53lGw" type="Stereotype">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bMcVZj9YEduSz4I7t53lGw" type="Name">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bMcVZz9YEduSz4I7t53lGw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_bMcVaD9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bMcVaT9YEduSz4I7t53lGw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_bMcVaj9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bMcVaz9YEduSz4I7t53lGw" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_bMcVbD9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bMcVbT9YEduSz4I7t53lGw" visible="false" type="StructureCompartment">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_bMcVbj9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_bMcVYT9YEduSz4I7t53lGw" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bMcVYj9YEduSz4I7t53lGw" x="7632" y="1272"/>
+  </children>
+  <children xmi:id="_bxGhoD9YEduSz4I7t53lGw" sourceEdges="_cqdyoD9YEduSz4I7t53lGw _cqnjkD9YEduSz4I7t53lGw" targetEdges="_bxsXgD9YEduSz4I7t53lGw _cqxUmT9YEduSz4I7t53lGw _cq6ekD9YEduSz4I7t53lGw">
+    <children xmi:id="_bxGhoz9YEduSz4I7t53lGw" type="ImageCompartment">
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_bxGhpD9YEduSz4I7t53lGw" width="530" height="530"/>
+    </children>
+    <children xmi:id="_bxGhpT9YEduSz4I7t53lGw" type="Stereotype">
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bxGhpj9YEduSz4I7t53lGw" type="Kind">
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bxGhpz9YEduSz4I7t53lGw" type="Name">
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bxPrkD9YEduSz4I7t53lGw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_bxPrkT9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bxPrkj9YEduSz4I7t53lGw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_bxPrkz9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_bxPrlD9YEduSz4I7t53lGw" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_bxPrlT9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_bxGhoT9YEduSz4I7t53lGw" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxGhoj9YEduSz4I7t53lGw" x="7314" y="5088"/>
+  </children>
+  <children xmi:id="_cmcOMT9YEduSz4I7t53lGw" sourceEdges="_cqxUkT9YEduSz4I7t53lGw _cqxUmT9YEduSz4I7t53lGw _cq6egD9YEduSz4I7t53lGw" targetEdges="_cq6egD9YEduSz4I7t53lGw _otIrcEAiEduHoJTkjqmLbw">
+    <children xmi:id="_cmcOND9YEduSz4I7t53lGw" type="ImageCompartment">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_cmcONT9YEduSz4I7t53lGw" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_cmcONj9YEduSz4I7t53lGw" type="Stereotype">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cmcONz9YEduSz4I7t53lGw" type="Name">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cmcOOD9YEduSz4I7t53lGw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cmcOOT9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cmcOOj9YEduSz4I7t53lGw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cmcOOz9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cmcOPD9YEduSz4I7t53lGw" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cmcOPT9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cml_MD9YEduSz4I7t53lGw" visible="false" type="StructureCompartment">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_cml_MT9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_cmcOMj9YEduSz4I7t53lGw" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cmcOMz9YEduSz4I7t53lGw" x="1590" y="7950"/>
+  </children>
+  <children xmi:id="_coFM8D9YEduSz4I7t53lGw" targetEdges="_cqdymD9YEduSz4I7t53lGw _cqdyoD9YEduSz4I7t53lGw">
+    <children xmi:id="_coFM8z9YEduSz4I7t53lGw" type="ImageCompartment">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_coFM9D9YEduSz4I7t53lGw" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_coFM9T9YEduSz4I7t53lGw" type="Stereotype">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coFM9j9YEduSz4I7t53lGw" type="Name">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coFM9z9YEduSz4I7t53lGw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_coFM-D9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coFM-T9YEduSz4I7t53lGw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_coFM-j9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coFM-z9YEduSz4I7t53lGw" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_coFM_D9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coFM_T9YEduSz4I7t53lGw" visible="false" type="StructureCompartment">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_coFM_j9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_coFM8T9YEduSz4I7t53lGw" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_coFM8j9YEduSz4I7t53lGw" x="16536" y="3498"/>
+  </children>
+  <children xmi:id="_coh44D9YEduSz4I7t53lGw" targetEdges="_cqdykD9YEduSz4I7t53lGw _cqnjkD9YEduSz4I7t53lGw">
+    <children xmi:id="_coh44z9YEduSz4I7t53lGw" type="ImageCompartment">
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_coh45D9YEduSz4I7t53lGw" width="530" height="530"/>
+    </children>
+    <children xmi:id="_coh45T9YEduSz4I7t53lGw" type="Stereotype">
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coh45j9YEduSz4I7t53lGw" type="Kind">
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coh45z9YEduSz4I7t53lGw" type="Name">
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coh46D9YEduSz4I7t53lGw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_coh46T9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coh46j9YEduSz4I7t53lGw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_coh46z9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_coh47D9YEduSz4I7t53lGw" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_coh47T9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_coh44T9YEduSz4I7t53lGw" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="vizref:///#jsrctype^vcore.target=uml2.Interface^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_coh44j9YEduSz4I7t53lGw" x="12402" y="12084"/>
+  </children>
+  <children xmi:id="_co0z0D9YEduSz4I7t53lGw" sourceEdges="_cq6eiD9YEduSz4I7t53lGw" targetEdges="_cq6eiD9YEduSz4I7t53lGw">
+    <children xmi:id="_co0z0z9YEduSz4I7t53lGw" type="ImageCompartment">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_co0z1D9YEduSz4I7t53lGw" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_co0z1T9YEduSz4I7t53lGw" type="Stereotype">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_co0z1j9YEduSz4I7t53lGw" type="Name">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_co0z1z9YEduSz4I7t53lGw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_co0z2D9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_co0z2T9YEduSz4I7t53lGw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_co0z2j9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_co0z2z9YEduSz4I7t53lGw" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_co0z3D9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_co0z3T9YEduSz4I7t53lGw" visible="false" type="StructureCompartment">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_co0z3j9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_co0z0T9YEduSz4I7t53lGw" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_co0z0j9YEduSz4I7t53lGw" x="15582" y="6996"/>
+  </children>
+  <children xmi:id="_cpRfwD9YEduSz4I7t53lGw" sourceEdges="_cq6ekD9YEduSz4I7t53lGw" targetEdges="_cqxUkT9YEduSz4I7t53lGw">
+    <children xmi:id="_cpRfwz9YEduSz4I7t53lGw" type="ImageCompartment">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_cpRfxD9YEduSz4I7t53lGw" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_cpRfxT9YEduSz4I7t53lGw" type="Stereotype">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cpRfxj9YEduSz4I7t53lGw" type="Name">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cpRfxz9YEduSz4I7t53lGw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cpRfyD9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cpRfyT9YEduSz4I7t53lGw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cpRfyj9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cpRfyz9YEduSz4I7t53lGw" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cpRfzD9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_cpRfzT9YEduSz4I7t53lGw" visible="false" type="StructureCompartment">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_cpRfzj9YEduSz4I7t53lGw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_cpRfwT9YEduSz4I7t53lGw" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cpRfwj9YEduSz4I7t53lGw" x="10812" y="17490"/>
+  </children>
+  <children xmi:id="_osiOgEAiEduHoJTkjqmLbw" sourceEdges="_otIrcEAiEduHoJTkjqmLbw">
+    <children xmi:id="_osiOg0AiEduHoJTkjqmLbw" type="ImageCompartment">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_osiOhEAiEduHoJTkjqmLbw" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_osiOhUAiEduHoJTkjqmLbw" type="Stereotype">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_osiOhkAiEduHoJTkjqmLbw" type="Name">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_osiOh0AiEduHoJTkjqmLbw" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_osiOiEAiEduHoJTkjqmLbw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_osiOiUAiEduHoJTkjqmLbw" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_osiOikAiEduHoJTkjqmLbw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_osiOi0AiEduHoJTkjqmLbw" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_osiOjEAiEduHoJTkjqmLbw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <children xmi:id="_osiOjUAiEduHoJTkjqmLbw" visible="false" type="StructureCompartment">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_osiOjkAiEduHoJTkjqmLbw"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_osiOgUAiEduHoJTkjqmLbw" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_osiOgkAiEduHoJTkjqmLbw" x="1322" y="1402"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_ICCWAT9YEduSz4I7t53lGw"/>
+  <edges xmi:id="_bxsXgD9YEduSz4I7t53lGw" source="_bMcVYD9YEduSz4I7t53lGw" target="_bxGhoD9YEduSz4I7t53lGw">
+    <children xmi:id="_bxsXgz9YEduSz4I7t53lGw" type="NameLabel">
+      <children xmi:id="_bxsXhT9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Implementation" href="vizref:///#jimpl^vcore.target=uml2.Implementation[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_bxsXhj9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Implementation" href="vizref:///#jimpl^vcore.target=uml2.Implementation[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Implementation" href="vizref:///#jimpl^vcore.target=uml2.Implementation[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_bxsXhD9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_bxsXgT9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Implementation" href="vizref:///#jimpl^vcore.target=uml2.Implementation[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bxsXgj9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_cqdykD9YEduSz4I7t53lGw" source="_bMcVYD9YEduSz4I7t53lGw" target="_coh44D9YEduSz4I7t53lGw">
+    <children xmi:id="_cqdykz9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cqdylT9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqdylz9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqdylj9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cqdylD9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cqdykT9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cqdykj9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_cqdymD9YEduSz4I7t53lGw" source="_bMcVYD9YEduSz4I7t53lGw" target="_coFM8D9YEduSz4I7t53lGw">
+    <children xmi:id="_cqdymz9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cqdynT9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqdynz9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqdynj9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cqdynD9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cqdymT9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Widget[jcu^name=Widget.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cqdymj9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_cqdyoD9YEduSz4I7t53lGw" source="_bxGhoD9YEduSz4I7t53lGw" target="_coFM8D9YEduSz4I7t53lGw">
+    <children xmi:id="_cqdyoz9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cqdypT9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqdypz9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqdypj9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cqdypD9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cqdyoT9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=InteractionReq[jcu^name=InteractionReq.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cqdyoj9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_cqnjkD9YEduSz4I7t53lGw" source="_bxGhoD9YEduSz4I7t53lGw" target="_coh44D9YEduSz4I7t53lGw">
+    <children xmi:id="_cqnjkz9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cqnjlT9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqxUkD9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqnjlj9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cqnjlD9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cqnjkT9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IResourceInterface[jcu^name=IResourceInterface.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cqnjkj9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_cqxUkT9YEduSz4I7t53lGw" source="_cmcOMT9YEduSz4I7t53lGw" target="_cpRfwD9YEduSz4I7t53lGw">
+    <children xmi:id="_cqxUlD9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cqxUlj9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqxUmD9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqxUlz9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cqxUlT9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cqxUkj9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cqxUkz9YEduSz4I7t53lGw" points="[-14, 2010, -1, -2461]$[-14, 3598, -1, -873]"/>
+  </edges>
+  <edges xmi:id="_cqxUmT9YEduSz4I7t53lGw" source="_cmcOMT9YEduSz4I7t53lGw" target="_bxGhoD9YEduSz4I7t53lGw">
+    <children xmi:id="_cqxUnD9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cqxUnj9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqxUoD9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cqxUnz9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cqxUnT9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cqxUmj9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cqxUmz9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_cq6egD9YEduSz4I7t53lGw" source="_cmcOMT9YEduSz4I7t53lGw" target="_cmcOMT9YEduSz4I7t53lGw">
+    <children xmi:id="_cq6egz9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cq6ehT9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cq6ehz9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cq6ehj9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cq6ehD9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cq6egT9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cq6egj9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_cq6eiD9YEduSz4I7t53lGw" source="_co0z0D9YEduSz4I7t53lGw" target="_co0z0D9YEduSz4I7t53lGw">
+    <children xmi:id="_cq6eiz9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cq6ejT9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cq6ejz9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cq6ejj9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cq6ejD9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cq6eiT9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=Resource[jcu^name=Resource.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cq6eij9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_cq6ekD9YEduSz4I7t53lGw" source="_cpRfwD9YEduSz4I7t53lGw" target="_bxGhoD9YEduSz4I7t53lGw">
+    <children xmi:id="_cq6ekz9YEduSz4I7t53lGw" type="KindLabel">
+      <children xmi:id="_cq6elT9YEduSz4I7t53lGw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cq6elz9YEduSz4I7t53lGw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_cq6elj9YEduSz4I7t53lGw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_cq6elD9YEduSz4I7t53lGw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cq6ekT9YEduSz4I7t53lGw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ResourceMapper[jcu^name=ResourceMapper.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=IWidget[jcu^name=IWidget.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cq6ekj9YEduSz4I7t53lGw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_otIrcEAiEduHoJTkjqmLbw" source="_osiOgEAiEduHoJTkjqmLbw" target="_cmcOMT9YEduSz4I7t53lGw">
+    <children xmi:id="_otR1YEAiEduHoJTkjqmLbw" type="KindLabel">
+      <children xmi:id="_otR1YkAiEduHoJTkjqmLbw" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_otR1ZEAiEduHoJTkjqmLbw" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <children xmi:id="_otR1Y0AiEduHoJTkjqmLbw" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_otR1YUAiEduHoJTkjqmLbw" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_otIrcUAiEduHoJTkjqmLbw" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=TestVisualization[jcu^name=TestVisualization.java[jpack^name=TestImp[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]][jsrctype^name=WidgetManager[jcu^name=WidgetManager.java[jpack^name=RSSys[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=RSSystem]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_otIrckAiEduHoJTkjqmLbw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+</notation:Diagram>

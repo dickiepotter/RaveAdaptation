@@ -1,0 +1,18 @@
+# Compiled Java bytecode (build artifacts — recompile from sources)
+*.class
+
+# Eclipse / IDE build output
+bin/
+out/
+build/
+.settings/
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Local JDK / tooling that may be unpacked alongside the project
+jdk-*/
+*.zip
