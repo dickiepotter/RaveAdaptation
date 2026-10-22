@@ -307,3 +307,9 @@ If the goal is simply to *explore the ontology* on a modern stack, see the
 companion **[ResourceOntology](https://github.com/dickiepotter/ResourceOntology)**
 project — a .NET + Svelte/Cytoscape web visualiser of essentially the same
 `Resource.owl`.
+
+## Licence and disclaimer
+
+This is a personal project by Richard Potter, shared in the hope it's useful. It's free to use under the MIT licence (see [LICENSE](LICENSE)). It's provided as is: I make no promises that it works or suits your purpose, and I take no responsibility for anything that happens from using it. It isn't a product of, or supported by, any company I work for.
+
+The MIT licence covers my own code (`RSSys/`, `TestImp/`) and the `res/Resource.owl` ontology only. The libraries in `lib/` (Apache Jena, ARQ, IRI, ANTLR, Xerces, xml-apis, ICU4J, log4j, Commons Logging, Woodstox, StAX API, json, concurrent and JUnit) and the Jena vocabulary and standard ontology files in `res/etc/` are third-party and keep their own licences. RAVE itself is Cardiff University's work and isn't included.
